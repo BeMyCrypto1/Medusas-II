@@ -1,0 +1,12 @@
+{
+  "name": "BMC1-MedusasII-000 — The First Resurrection",
+  "description": "Canonical Medusa restored after the verdict. Justice-first memorial work. Unminted.",
+  "image": "IPFS_OR_ARWEAVE_LINK_LATER",
+  "attributes": [
+    { "trait_type": "Medusa Number", "value": "000" },
+    { "trait_type": "Domain", "value": "Truth Restoration" },
+    { "trait_type": "Canon Status", "value": "Foundational" },
+    { "trait_type": "Mint Status", "value": "Disabled" }
+  ],
+  "creator": "BMC1 BeMyCrypto1 LLC"
+}
