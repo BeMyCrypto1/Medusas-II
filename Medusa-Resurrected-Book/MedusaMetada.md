@@ -40,4 +40,13 @@ No minting occurs without:
 - Final review
 - Canon alignment check
 
+## Prior to create any NFT MedusaII Collection, BMC1 needs approval of the display of the story, 
+This is used as ethical approval approach details prior to NFT creation tokenization, 
+if none -real person- is available for the approval. 
+
+The NFT Medusa Creation will happens -be displayed- in for the lack of approval 
+-deceased person-, but her story NFT would prevail in the BMC1 NFT MedusasII Collection 
+as **"anonymous tokenization creation".**
+
 Justice Precedes Tokenization Creation.
+
