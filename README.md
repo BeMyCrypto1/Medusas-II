@@ -1,7 +1,7 @@
 Creator:
 BMC1 BeMyCrypto1 LLC
 CEO Ben Macedo
-Contact: bmc2.medusas.ii@gmail.com
+Contact: bmc1.medusas.ii@gmail.com, bmc1.ceo.macedo@bemycrypto1.online
 BMC1-MedusasII NFT 666 Collection
 
 
