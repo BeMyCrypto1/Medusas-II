@@ -106,3 +106,12 @@ It is canonical.
 - Mint Status: Disabled (Approval-Gated)
 - Story Consent: Archetypal / Non-Identifiable
 - Sensitive Content Warning: Yes
+
+- ## Canonical Artwork
+
+**Primary Icon (Archival):**
+![BMC1-MedusasII-000](BMC1-MedusasII-000.png)
+
+**Canonical Motion Variant (Silent Video):**
+[BMC1-MedusasII-000 — Motion Canon](BMC1-MedusasII-000.mp4)
+
