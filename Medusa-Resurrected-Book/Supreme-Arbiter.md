@@ -1,4 +1,5 @@
-# Article VI — The Authority of the Gorgon
+# Article VI — Supreme Arbiter
+**The Authority of the Gorgon*
 
 ## Section 1. Installation
 
