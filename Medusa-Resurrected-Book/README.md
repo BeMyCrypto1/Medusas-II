@@ -21,13 +21,15 @@ but as a sovereign arbiter of justice.
 - A memorial architecture for women erased by power
 - A structural response to victim-blaming systems
 - A precursor to a future NFT collection (not yet minted)
+- An NFT marketing campaign
+- A Greek Mythology fan project
+- A Reflecting-to-Reality in order to change Medusa's Original Evil view of her.
 
 ---
 
 ## What This Repository Is Not
-- A mythology fan project
+
 - A speculative fiction experiment
-- An NFT marketing campaign
 - A replacement for real-world legal systems
 
 ---
