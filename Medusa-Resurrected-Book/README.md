@@ -1,4 +1,4 @@
-# Medusa Resurrected
+# Why Medusa was Resurrected
 
 ## A Post-Verdict Canon of Justice, Memory, and Restoration
 
@@ -35,10 +35,10 @@ but as a sovereign arbiter of justice.
 ---
 
 ## How to Read This Work
-1. Begin with      **WhyMedusaResurrection.md**
+1. Begin with      **Why_MedusaResurrection.md**
 2. Continue to     **CANON_LAW.md**
-3. Study           **OLYMPUS_RECONSTITUTION.md**
-4. Review          **METADATA_STANDARD.md**
+3. Study           **Olympus_Reconstitution.md**
+4. Review          **Metada_Standard.md**
 5. Enter the       **MEDUSAS_II_NFTs/** directory last
 
 ---
